@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Mannu-Jha
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning and working on Machine Learning and Data Science.
+- 👋 Hi, I am Mannu Jha.
 
 <!---
 - 💞️ I’m looking to collaborate on 
